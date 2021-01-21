@@ -1,0 +1,6 @@
+[book]
+authors = ["TK4E"]
+language = "zh_CN"
+multilingual = false
+src = "doc/zh_CN"
+title = "FFmpeg_doc_cn"
